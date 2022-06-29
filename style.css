@@ -1,0 +1,16 @@
+#body1{
+  background-color: aqua;
+}
+
+#output{
+  background:white;
+  border-radius: 10px;
+  border-top: 10px solid #aa4465;
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
+body{
+  background-color: red;
+}
+
